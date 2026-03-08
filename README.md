@@ -5,8 +5,8 @@ e# ESI Website
 Building Concepts. Delivering Results.
 
 ## Live Links
-- **Google Cloud:** perimental-science-institute.pages.dev
-- **Cloudflare:** (Coming soon)
+- **Google Cloud:** i cant give u 
+- **Cloudflare:** perimental-science-institute.pages.dev
 
 ## Tech Stack
 - HTML5 + CSS3 + JavaScript
